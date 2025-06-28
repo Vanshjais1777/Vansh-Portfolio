@@ -50,7 +50,7 @@ const projects = [
     },
 ];
 
-const Projects = () => (
+const Projects: React.FC = () => (
     <section className="py-12 px-4 text-center bg-white dark:bg-gray-950" id="projects">
         <h2 className="text-3xl font-bold mb-8 text-gray-900 dark:text-white">Projects</h2>
         <div className="grid md:grid-cols-3 gap-8 w-full">
