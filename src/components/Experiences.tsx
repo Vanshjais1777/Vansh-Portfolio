@@ -5,7 +5,7 @@ const experiencesArray = [
         title: 'Founder & Full Stack Developer',
         company: 'Nayi Soch Solutions',
         date: 'June 2025 – Present',
-        description: 'Completed 2 projects, Developed a Admin Pannel of a Coaching Classes in React.js and Firebase, with features like Dashboard, Student management and Batches management. Showcasing my skills and projects.',
+        description: 'Successfully delivered 5+ full stack paid projects leveraging React.js and Firebase. Projects include: an Admin Panel for a Coaching Institute (with dashboard, student & batch management), an e-commerce platform for spiritual books and goods (for a business in Gorakhpur), a static website for a computer institute, and a billing software for a restaurant. Demonstrated expertise in building scalable, user-friendly, and business-focused solutions.',
         Website: 'https://ns-solutions.netlify.app'
     },
     {
