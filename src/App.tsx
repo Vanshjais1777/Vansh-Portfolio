@@ -6,14 +6,9 @@ import Skills from './components/Skills'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import { toast, ToastContainer } from 'react-toastify'
-import { useEffect } from 'react'
+import { ToastContainer } from 'react-toastify'
 import Experiences from './components/Experiences'
 const App: React.FC = () => {
-
-  useEffect(() => {
-    toast.success('Welcome to my portfolio! 🌟');
-  }, [])
 
   return (
     <div>
