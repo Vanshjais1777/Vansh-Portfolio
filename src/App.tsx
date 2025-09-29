@@ -27,7 +27,7 @@ const App: React.FC = () => {
         role="Full Stack Developer"
         intro="I build elegant and scalable web experiences using MERN stack. Let's bring your ideas to life!"
         imageSrc="/me.png"
-        resumeLink="https://drive.google.com/file/d/1H76Z5LRdEZ8M40dBoqJC63yijvMiYb8Y/view?usp=drive_link"
+        resumeLink="https://drive.google.com/file/d/1UUhkMdk4zJ_qNMxCH65OgSNfV38M6Wod/view?usp=sharing"
         githubLink="https://github.com/vanshjais1777"
         linkedinLink="https://www.linkedin.com/in/vansh-jaiswal-806271218"
         phoneNo="+916386169658"
